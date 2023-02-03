@@ -1,2 +1,1 @@
-# ESP_NOW-
-ESP_NOW 
+https://github.com/motwok/esphome-docs/blob/wifi_now_component/components/wifi_now.rst
